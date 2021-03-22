@@ -25,3 +25,7 @@ img {
     height: 80px;
     width: 80px;
 }
+
+.big-icon {
+    font-size: 12rem;
+}
